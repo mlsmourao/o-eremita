@@ -1,0 +1,8 @@
+{
+  "name": "o-eremita",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mlsmourao/o-eremita.git",
+  "author": "mlsmourao <167831762+mlsmourao@users.noreply.github.com>",
+  "license": "MIT"
+}
